@@ -14,6 +14,6 @@ var checkFood = function(food) {
   } else {
     console.log('Some food please :)');
   }
-}
+};
 
 checkFood('cookies');
